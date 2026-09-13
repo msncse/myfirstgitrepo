@@ -1,3 +1,4 @@
 Artificial Intelligence assisted network automation to build netops AI agent
 practical receipe of ai assisted network automation
+aded by shahadat
 packet pusher podcast
